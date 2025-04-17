@@ -97,7 +97,7 @@
         Control {
             bindings = <
 &kp ESCAPE        &kp F1           &kp F2             &kp F3      &kp F4                                  &kp F10     &kp F11   &kp F12         &kp UP_ARROW     &kp PAGE_UP
-&kp TAB           &trans           &trans             &trans      &trans       &kp HOME       &trans      &trans      &trans    &kp LEFT_ARROW  &kp RIGHT_ARROW  &kp PAGE_DOWN
+&kp TAB           &mkp MB1         &mkp MB3           &mkp MB2    &trans       &kp HOME       &trans      &trans      &trans    &kp LEFT_ARROW  &kp RIGHT_ARROW  &kp PAGE_DOWN
 &kp LEFT_CONTROL  &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &kp C_MUTE  &kp C_EJECT  &kp END        &trans      &mkp MB1    &mkp MB3  &mkp MB2        &kp DOWN_ARROW   &kp RIGHT_SHIFT
 &kp LEFT_SHIFT    &kp LEFT_ALT     &kp LEFT_COMMAND   &kp SPACE   &kp SPACE    &kp SPACE      &kp DELETE  &kp RETURN                                             &trans
             >;
