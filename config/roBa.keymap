@@ -88,7 +88,7 @@
         Num_Symbols {
             bindings = <
 &kp ESC           &kp NUMBER_1  &kp NUMBER_2      &kp NUMBER_3  &kp NUMBER_4                             &kp NUMBER_5  &kp NUMBER_6  &kp NUMBER_7      &kp NUMBER_8       &kp NUMBER_9
-&kp TAB           &trans        &trans            &trans        &trans        &trans         &trans      &kp MINUS     &kp EQUAL     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp NUMBER_0
+&kp TAB           &trans        &trans            &trans        &trans        &trans         &kp MINUS   &kp EQUAL     &kp GRAVE     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp NUMBER_0
 &kp LEFT_CONTROL  &trans        &trans            &trans        &trans        &trans         &trans      &trans        &trans        &trans            &kp BACKSLASH      &kp RIGHT_SHIFT
 &kp LEFT_SHIFT    &kp LEFT_ALT  &kp LEFT_COMMAND  &kp SPACE     &kp SPACE     &kp SPACE      &kp DELETE  &kp RETURN                                                       &trans
             >;
